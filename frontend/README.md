@@ -1,4 +1,4 @@
-# charactergeneratorfrontend
+# frontend
 
 ## Project setup
 ```
